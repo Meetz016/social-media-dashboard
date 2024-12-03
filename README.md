@@ -1,8 +1,53 @@
-# React + Vite
+# Social Media Analytics Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+A comprehensive React-based social media analytics dashboard providing detailed insights into social media performance across multiple platforms.
 
-Currently, two official plugins are available:
+## Features
+- Dark/Light mode toggle
+- Responsive design
+- Multiple visualization types
+- Platform-specific analytics
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React
+- Recharts
+- Tailwind CSS
+- Lucide React Icons
+
+## Installation
+
+### Prerequisites
+- Node.js
+- npm/yarn
+
+### Steps
+```bash
+git clone https://github.com/meetz016/social-media-dashboard.git
+cd social-media-dashboard
+npm install
+npm start
+```
+
+## Dashboard Components
+- Key Performance Metrics Cards
+- Platform Follower Statistics
+- Audience Distribution Bar Chart
+- Platform Contribution Pie Chart
+
+## Data Visualization
+- Follower count tracking
+- Interaction metrics
+- Platform-wise performance analysis
+
+## Customization
+- Easily modifiable data constants
+- Theme context for mode switching
+- Responsive component design
+
+## Contributing
+1. Fork repository
+2. Create feature branch
+3. Commit changes
+4. Push to branch
+5. Create pull request
