@@ -27,6 +27,7 @@ git clone https://github.com/meetz016/social-media-dashboard.git
 cd social-media-dashboard
 npm install
 npm run dev
+
 ```
 
 ## Dashboard Components
