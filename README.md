@@ -26,7 +26,7 @@ A comprehensive React-based social media analytics dashboard providing detailed 
 git clone https://github.com/meetz016/social-media-dashboard.git
 cd social-media-dashboard
 npm install
-npm start
+npm run dev
 ```
 
 ## Dashboard Components
